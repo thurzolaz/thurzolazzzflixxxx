@@ -1,0 +1,115 @@
+body {
+    color: orange;
+    background: black;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+     border-bottom: solid 4px blue;
+     padding: 20px;
+    font-size: 32 px;    
+
+}
+
+
+section {
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.gay {
+
+margin-right: 20px;
+
+
+}
+
+
+
+h1 {
+
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+
+img {
+
+    height: 200px;
+
+}
+
+
+
+
+.categoria {
+
+
+  display: flex;
+
+
+overflow-x: auto;
+
+
+gap: 30px;
+
+
+}
+
+
+
+
+section  {
+
+
+    padding-left: 20px;
+}
+
+
+
+
+
+
+.categoria img   {
+
+opacity: 0.5;
+
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+
+
+.categoria img:hover  {
+
+
+    opacity: 1.0;
+
+
+    border: 3px;
+
+
+
+
+
+
+
+
+
+    
+}
